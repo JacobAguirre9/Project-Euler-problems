@@ -54,6 +54,5 @@ def FractionComputation():
 if __name__ == "__main__":
     print(FractionComputation())
 
-
-
-
+# From this code, we find that the value of the denominator for this fraction is 100.
+# Thus, we have successfully proven our answer
