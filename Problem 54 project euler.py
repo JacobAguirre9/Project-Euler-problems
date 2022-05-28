@@ -1,5 +1,5 @@
 # These are my solutions to Project Euler problems! I hope they can be useful for you
-# This is a quite interesting problem, and probably one of my favoruites given by project euler
+# This is a quite interesting problem, and probably one of my favorites given by project euler
 
 # Problem 54 Poker Hands
 # In the card game poker, a hand consists of five cards and are ranked, from lowest to highest, in the following way:
